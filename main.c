@@ -12,7 +12,7 @@
 #define HEIGHT (640)
 #define FPS_CAP (60)
 
-#define WHITE 180, 180, 255, 1
+#define WHITE 255, 255, 255, 1
 
 #define BOIDS_COUNT (500)
 #define BOID_RADIUS (3)
